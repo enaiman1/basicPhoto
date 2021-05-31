@@ -1,0 +1,1 @@
+This is a basic photo layout project using just HTMl and CSS to show case 9 photos 
